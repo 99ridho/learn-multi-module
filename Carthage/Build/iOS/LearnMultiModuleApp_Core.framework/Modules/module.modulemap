@@ -1,0 +1,4 @@
+framework module LearnMultiModuleApp_Core {
+  header "LearnMultiModuleApp_Core-Swift.h"
+  requires objc
+}

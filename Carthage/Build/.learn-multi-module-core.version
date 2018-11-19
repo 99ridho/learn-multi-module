@@ -1,0 +1,18 @@
+{
+  "Mac" : [
+
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "v1.0",
+  "iOS" : [
+    {
+      "name" : "LearnMultiModuleApp_Core",
+      "hash" : "c49a2232b1015516939411e922052997dccaecb1ecbe4ba0ea6c474edc4d3c47"
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+[submodule "LearnMultiModuleApp-Core"]
+	path = LearnMultiModuleApp-Core
+	url = https://github.com/99ridho/learn-multi-module-core
